@@ -38,7 +38,6 @@ class Program
             Console.WriteLine($"You didn't pass this time. Keep working hard for the next attempt!");
         }
 
-        // Core Requirement 4: Print the letter grade at the end
         Console.WriteLine($"Your letter grade is: {letter}");
     }
 }
