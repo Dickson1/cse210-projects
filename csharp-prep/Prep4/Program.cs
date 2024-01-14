@@ -20,7 +20,6 @@ class Program
 
         } while (input != 0);
 
-        // Core Requirements
         int sum = numbers.Sum();
         double average = numbers.Average();
         int maxNumber = numbers.Max();
