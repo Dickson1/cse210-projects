@@ -27,7 +27,7 @@ class Program
                 else
                 {
                     Console.WriteLine("You guessed it!");
-                    break; // Exit the inner loop when the guess is correct
+                    break;
                 }
 
                 numberOfGuesses++;
