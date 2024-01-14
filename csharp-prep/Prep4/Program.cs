@@ -28,7 +28,6 @@ class Program
         Console.WriteLine($"The average is: {average}");
         Console.WriteLine($"The largest number is: {maxNumber}");
 
-        // Stretch Challenges
         int smallestPositive = numbers.Where(n => n > 0).DefaultIfEmpty(0).Min();
         List<int> sortedList = numbers.OrderBy(n => n).ToList();
 
