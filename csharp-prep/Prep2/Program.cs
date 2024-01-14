@@ -4,7 +4,6 @@ class Program
 {
     static void Main()
     {
-        // Core Requirement 1: Ask the user for their grade percentage
         Console.Write("Enter your grade percentage: ");
         double percentage = Convert.ToDouble(Console.ReadLine());
 
