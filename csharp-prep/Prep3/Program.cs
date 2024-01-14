@@ -40,7 +40,7 @@ class Program
 
             if (playAgain.ToLower() != "yes")
             {
-                break; // Exit the outer loop if the user doesn't want to play again
+                break;
             }
         }
     }
