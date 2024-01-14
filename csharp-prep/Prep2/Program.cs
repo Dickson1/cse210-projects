@@ -29,7 +29,6 @@ class Program
             letter = "F";
         }
 
-        // Core Requirement 3: Check if the user passed and display messages
         if (percentage >= 70)
         {
             Console.WriteLine($"Congratulations! You passed with a {letter}.");
