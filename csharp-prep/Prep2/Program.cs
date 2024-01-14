@@ -8,7 +8,6 @@ class Program
         Console.Write("Enter your grade percentage: ");
         double percentage = Convert.ToDouble(Console.ReadLine());
 
-        // Core Requirement 2: Determine the letter grade
         string letter;
         if (percentage >= 90)
         {
