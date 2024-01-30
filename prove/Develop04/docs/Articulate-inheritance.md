@@ -1,4 +1,4 @@
-# Inheritance - Articulate W08
+# Inheritance - Articulate inheritance
 
 ## Overview
 
